@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.calc {
+    width: 400px;
+    height: 525px;
+    background-color: grey;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.head {
+    text-align: center;
+    font-weight: 100;
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+.screen {
+    width: 80%;
+    height: 40px;
+    margin-left: 36px;
+    margin-top: 20px;
+    pointer-events: none;
+    text-align: right;
+    font-size: x-large;
+}
+
+.clr-btn {
+    margin-left: 280px;
+}
+
+.btn {
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: large;
+}
